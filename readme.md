@@ -1,2 +1,2 @@
-#Proyecto: Amigo Secreto
+# Proyecto: Amigo Secreto
 -Estado del proyecto: Terminado
